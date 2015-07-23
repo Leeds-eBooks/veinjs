@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/israelidanny/veinjs.git"
+    "url": "https://github.com/Leeds-eBooks/veinjs.git"
   },
   "author": "Danny Povolotski",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/israelidanny/veinjs/issues"
+    "url": "https://github.com/Leeds-eBooks/veinjs/issues"
   },
-  "homepage": "https://github.com/israelidanny/veinjs"
+  "homepage": "https://github.com/Leeds-eBooks/veinjs"
 }
